@@ -7,7 +7,7 @@ public class Main {
         int daysMax = minusWeight / minusDayMin;
         int daysMin = minusWeight / minusDayMax;
         int daysAv = (daysMin + daysMax)/2;
-        System.out.println("Требуется от " + daysMin + " до " + daysMax + " дней, в среднем " +
+        System.out.println("Требуется от " + daysMin + " до " + daysMax + " дней, а в среднем " +
                 daysAv + " дней.");
     }
 }
