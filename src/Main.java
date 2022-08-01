@@ -10,6 +10,6 @@ public class Main {
         double eggNum = 4;
         double allWeight = bananWeight * bananNum + milk100/100 * milkNum + icecreamWeight * icecreamNum + eggWeight * eggNum;
         double allWeightKg = allWeight / 1000;
-        System.out.println("Вес спорт-завтрака " + allWeightKg + " кг." );
+        System.out.println("Вес спорт-завтрака " + allWeightKg + " кг. " );
     }
 }
