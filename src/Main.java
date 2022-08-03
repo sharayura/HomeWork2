@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
         int MashaSalary = 67760;
         int DenisSalary = 83690;
         int KristinaSalary = 76230;
